@@ -1,4 +1,4 @@
-Package: cck8.my
+Package: com.austinaries10.deb
 Name: Anti-Boom Austintech
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
